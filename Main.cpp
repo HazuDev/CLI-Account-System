@@ -2,7 +2,7 @@
 #include <fstream>
 #include <string>
 
-#define EXT ".txt"
+#define EXT ".hcli"
 
 using namespace std;
 
